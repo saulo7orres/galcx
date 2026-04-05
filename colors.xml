@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Curso: Análise e Desenvolvimento de Sistemas
+    Aluno: Saulo Torres de Oliveira Assis
+    Professor: André Gustavo
+    Projeto: GALC-X - A equação da eficiência-->
+
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="fundoEscuro">#202124</color>
+    <color name="azulBotao">#3B82F6</color>
+    <color name="verdeResultado">#4ADE80</color>
+    <color name="cinzaTexto">#BDC1C6</color>
+    <color name="cinzaHint">#5F6368</color>
+</resources>
