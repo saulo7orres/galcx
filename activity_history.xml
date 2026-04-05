@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Curso: Análise e Desenvolvimento de Sistemas
+    Aluno: Saulo Torres de Oliveira Assis
+    Professor: André Gustavo
+    Projeto: GALC-X - A equação da eficiência-->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/fundoEscuro"
+    android:orientation="vertical"
+    android:padding="30dp">
+
+    <ListView
+        android:id="@+id/listViewHistorico"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:divider="@color/cinzaHint"
+        android:dividerHeight="1dp"
+        android:background="@android:color/transparent" />
+
+    <Button
+        android:id="@+id/btnLimpar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#EF4444"
+        android:text="Limpar Histórico"
+        android:textColor="@color/white" />
+
+</LinearLayout>
