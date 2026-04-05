@@ -1,0 +1,9 @@
+<resources>
+
+    <!-- Curso: Análise e Desenvolvimento de Sistemas
+    Aluno: Saulo Torres de Oliveira Assis
+    Professor: André Gustavo
+    Projeto: GALC-X - A equação da eficiência-->
+
+    <string name="app_name">GALC-X</string>
+</resources>
